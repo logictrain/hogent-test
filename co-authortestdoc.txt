@@ -4,3 +4,5 @@ Test met Alexander als co-author
 Hallo David, ik ben hier ook
 
 Console.Writeline("hallo");
+
+Version 3.0 zonder David als co-author
